@@ -1,0 +1,6 @@
+{
+  "name": "NVK Esports",
+  "description": "Site officiel de l'équipe esport francophone NVK : rosters compétitifs, calendrier des matchs, palmarès et maillot officiel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
